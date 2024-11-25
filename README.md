@@ -24,13 +24,13 @@
    ```bash
    git clone [https://github.com/yourusername/emptrack.git](https://github.com/yourusername/emptrack.git)
 
-Navigate to the project directory:
-bash
-cd emptrack
+2. **Navigate to the project directory:**
+   ```bash
+   cd emptrack
 
-Install the required Python packages:
-bash
-pip install -r requirements.txt
+3. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
 
 Set up the MySQL database:
 Create a new database named Emp_DBMS.
