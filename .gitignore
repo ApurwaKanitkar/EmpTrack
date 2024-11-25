@@ -1,1 +1,15 @@
 .ipynb_checkpoints/
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore PDFs (optional, if not needed in the repository)
+*.pdf
+
+# Ignore IDE and OS-specific files
+.vscode/
+.DS_Store
