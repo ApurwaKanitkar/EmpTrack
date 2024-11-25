@@ -1,5 +1,4 @@
-Project Title
-EmpTrack: Employee Database Management System
+# EmpTrack: Employee Database Management System
 Introduction
 EmpTrack is designed to streamline human resource operations by providing a centralized platform for managing employee data. It addresses the challenges of traditional HR data management systems, enhancing efficiency, data accuracy, and employee engagement.
 Features
