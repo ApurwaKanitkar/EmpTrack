@@ -1,7 +1,5 @@
 Project Title
-
 EmpTrack: Employee Database Management System
-
 Introduction
 EmpTrack is designed to streamline human resource operations by providing a centralized platform for managing employee data. It addresses the challenges of traditional HR data management systems, enhancing efficiency, data accuracy, and employee engagement.
 Features
@@ -43,9 +41,18 @@ Access the application in your web browser at http://localhost:8501.
 Contributing
 Contributions are welcome! Please follow these steps:
 Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes and commit them (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
+Create a new branch:
+bash
+git checkout -b feature/YourFeature
+
+Make your changes and commit them:
+bash
+git commit -m 'Add some feature'
+
+Push to the branch:
+bash
+git push origin feature/YourFeature
+
 Open a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
