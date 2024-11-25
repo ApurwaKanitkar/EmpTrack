@@ -28,38 +28,47 @@
    ```bash
    cd emptrack
 
-3. Install the required Python packages:
+3. **Install the required Python packages:**
    ```bash
    pip install -r requirements.txt
 
-Set up the MySQL database:
-Create a new database named Emp_DBMS.
-Execute the SQL scripts provided in the sql folder to set up the necessary tables.
-Usage
-Start the Streamlit application:
-bash
-streamlit run main.py
+4. **Set up the MySQL database:**
+   * Create a new database named Emp_DBMS.
+   * Execute the SQL scripts provided in the sql folder to set up the necessary tables.
 
-Access the application in your web browser at http://localhost:8501.
-Contributing
+## **Usage**
+1. **Start the Streamlit application:**
+   ```bash
+   streamlit run main.py
+
+2. **Access the app:**
+   
+   Open http://localhost:8501 in your web browser.
+   
+## **Contributing**
+
 Contributions are welcome! Please follow these steps:
-Fork the repository.
-Create a new branch:
-bash
-git checkout -b feature/YourFeature
 
-Make your changes and commit them:
-bash
-git commit -m 'Add some feature'
+1. **Fork the Repository:** Create a fork on GitHub.
+2. **Create a New Branch:**
+   ```bash
+   git checkout -b feature/YourFeature
 
-Push to the branch:
-bash
-git push origin feature/YourFeature
+3. **Make your changes and commit them:**
+   ```bash
+   git commit -m 'Add some feature'
 
-Open a pull request.
-License
+4. **Push to the branch:**
+   ```bash
+   git push origin feature/YourFeature
+
+5. **Open a Pull Request:** Submit a pull request on GitHub.
+
+## **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
+## **Acknowledgments**
 Inspired by modern HR needs for efficient data management.
 Built using best practices in software development and user interface design.
+
 This README provides an overview of the EmpTrack project, its features, installation instructions, and guidelines for usage and contribution. For further details, refer to the documentation within the project files.
